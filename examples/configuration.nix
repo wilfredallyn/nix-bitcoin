@@ -43,7 +43,7 @@
 
   ### CLIGHTNING
   # Enable clightning, a Lightning Network implementation in C.
-  services.clightning.enable = true;
+  #services.clightning.enable = true;
   #
   # Set this to create an onion service by which clightning can accept incoming connections
   # via Tor.
